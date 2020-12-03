@@ -9,8 +9,8 @@ In this project, we predict the forest cover type (the predominant kind of tree 
 	
 |Author|Xinyue Zhang|Zhuoxuan Li|Shuyu Qiao|
 |---|---|---|---
-|ID|20750194|20740917|20747563
-|Email|xzhangfa@connect.ust.hk|zlify@connect.ust.hk|sqiaoac@connect.ust.hk
+|ID|20750194|20740917|20747563|
+|Email|xzhangfa@connect.ust.hk|zlify@connect.ust.hk|sqiaoac@connect.ust.hk|
 
 ****
 ## Content
