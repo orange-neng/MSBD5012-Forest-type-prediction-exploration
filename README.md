@@ -25,4 +25,4 @@ In this project, we predict the forest cover type (the predominant kind of tree 
 * [Final code : Decesion tree.ipynb](#文本)
 * [Final repo : 5012_Final-report.pdf](#文本)
 * [Final slide : 5012-group25-slide.pdf](#文本)
-* [Final pre : 5012-group25-slide.pdf](#文本)
+* [Final pre : MSBD5012-group25-presentation.mp4](#文本)
