@@ -22,4 +22,4 @@ In this project, we predict the forest cover type (the predominant kind of tree 
 * [Final code : FNN.ipynb](#dd)
 * [Final code : Decision tree on Spark.ipynb](#dd)
 * [Final code : LR-RF-LightGBM.ipynb](#文本)
-* [Final repo : 5012-report.pdf](#文本)
+* [Final repo : 5012_Final-report.pdf](#文本)
